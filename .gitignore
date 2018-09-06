@@ -1,5 +1,10 @@
 GoogleNews-vectors-negative300.bin
 GoogleNews-vectors-negative300.bin.gz
+file.txt
+dnnnn.csv
+sample_submission.csv
+test.csv
+train.csv
 
 
 # Created by https://www.gitignore.io/api/pycharm
